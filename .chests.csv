@@ -1,0 +1,58 @@
+#Type;PosX;PosY;ItemName;ItemType;
+S;18004;23851;Lame d'Eternité;WEAPON;
+
+### Abri du Guerrier
+S;8632;6170;Branche de Sylvain;WEAPON;
+S;9625;4734;Casque du Vagabond Cuirassé;ARMOR;
+#S;7271;5504;Lame d'Argent Céleste;WEAPON;
+
+### Clairiere des goblins
+S;3166;2111;Guide des Horizons;ARMOR;
+S;3500;2517;Plastron de l'Arbre Ancien;ARMOR;
+
+### Clairiere du marchant
+S;4054;7893;Bottes du Voyageur Errant;ARMOR;
+S;3762;14731;Pelle du Mineur;WEAPON;
+
+### Caverne des murmures
+S;3762;14731;Pioche de l'Explorateur;WEAPON;
+S;2268;15403;Bâton de l'Arcane Antique;WEAPON;
+
+### Marais Grincheux
+H;7505;10956;Trésor Brillant;ARMOR;
+H;6787;11763;Dague de l'Ombre;WEAPON;
+
+### Citadelle d'amethyste
+S;22411;5330;Bouclier du Protecteur Sylvain;ARMOR;
+S;20875;4537;Croc d'Acier;WEAPON;
+
+### Astréa
+S;25706;9705;Bottes du Titan d'Acier;ARMOR;
+H;22516;10031;Lame d'Argent Céleste;WEAPON;
+
+### Nécropole du Dragon
+S;4977;18727;Bâton de l'Arcane Antique;WEAPON;
+
+### Ancien Cheateau de l'écu d'or
+S;6054;22234;Heaume de l'Aigle d'Acier;ARMOR;
+S;7328;22575;Écu du Soleil d'Argent;ARMOR;
+S;9126;23100;Bottes du Titan d'Acier;ARMOR;
+
+### Sylvestra
+S;15747;20668;Chapeau de sorcier;ARMOR;
+S;17721;21862;Bouclier du Protecteur Sylvain;ARMOR;
+
+### Repaire du Feu Ardent
+S;22383;23488;Heaume de l'Éternel Roi;ARMOR;
+S;21854;22316;Cuirasse de l'Éclat Éternel;ARMOR;
+
+### Fosses des Damnés
+S;14751;14569;Hache de la Forêt Profonde;WEAPON;
+
+### Autres
+S;26051;7256;Simple livre;ARMOR;
+S;14000;25363;Voile du Mystère;ARMOR;
+S;24927;16927;Sceptre de Rubis Ardents;WEAPON;
+S;16036;16117;Bâton de Saphir Céleste;WEAPON;
+S;12372;24502;Bâton de l'Éclat d'Émeraude;WEAPON;
+S;27187;1032;Marteau de Forgeron;WEAPON;

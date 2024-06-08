@@ -1,0 +1,27 @@
+/*
+** EPITECH PROJECT, 2024
+** skill
+** File description:
+** skill
+*/
+
+#include <stdlib.h>
+#include "rpg.h"
+#include "skill_tree.h"
+
+int unlock_skill(rpg_t *rpg, skill_t *skill, char *name)
+{
+    skill_t *tmp = skill;
+
+    while (tmp != NULL) {
+        if (tmp->name == name && tmp->lock == 0 &&
+        (*inventory())->player_status->skill_points > 0) {
+            (*inventory())->player_status->skill_points -= 1;
+            tmp->unlocked = 1;
+            tmp->function(rpg);
+            return 1;
+        }
+        tmp = tmp->next;
+    }
+    return 0;
+}

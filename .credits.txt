@@ -1,0 +1,59 @@
+Merci d'avoir joué!
+
+
+~Crédits
+
+|Développement
+
+Matys, Julien, Ambre et Alexyan
+
+|Julien
+
+Inventaire
+Arbre de compétences
+Système d'expérience
+Gestion des Équipements
+
+|Ambre
+
+Sons et musiques
+Création de la carte
+Placement des Collisions
+
+|Alexyan
+
+Conception des menus
+Système de quête
+Création des quêtes
+Sauvegardes
+Dialogues
+
+|Matys
+
+Système de combat
+Gestion des Entités
+Animations
+Design des menus
+Création des quêtes
+Création des équipements
+Interface en jeu
+
+|Scénario et Conception de Jeu
+
+Alexyan et Matys
+
+~Remerciements Spéciaux
+
+|Conceptions des développeurs:
+
+Mamans (Sarah, Audrey, Virginie, Corinne)
+Papas (Alexandre, Guy, Michaël)
+
+|Soutien et Contributions
+
+Alexis (Musique)
+Léo (Pas tant que ça)
+
+|Copyright
+
+© [2024] Cramptés Corp
